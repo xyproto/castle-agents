@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Ignore generated images
+cmd/*/*.png
+
+cmd/blending/blending
+cmd/butterfly/butterfly
+cmd/cube/cube
+cmd/glitchduck/glitchduck
+cmd/multicore/multicore
+cmd/redpixel/redpixel
+cmd/simple/simple
+cmd/simpledraw/simpledraw
+cmd/strobe/strobe
+cmd/wiretri/wiretri
+
+.DS_Store
+include.txt

@@ -1,0 +1,19 @@
+# github.com/fogleman/fauxgl v0.0.0-20200818143847-27cddc103802
+## explicit
+github.com/fogleman/fauxgl
+# github.com/fogleman/simplify v0.0.0-20170216171241-d32f302d5046
+## explicit
+github.com/fogleman/simplify
+# github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
+## explicit
+github.com/nfnt/resize
+# github.com/veandco/go-sdl2 v0.4.38
+## explicit; go 1.15
+github.com/veandco/go-sdl2/_libs
+github.com/veandco/go-sdl2/sdl
+# github.com/xyproto/pf v0.1.0
+## explicit; go 1.16
+github.com/xyproto/pf
+# github.com/xyproto/pixelpusher v1.2.1
+## explicit; go 1.21
+github.com/xyproto/pixelpusher
